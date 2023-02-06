@@ -11,7 +11,7 @@ services:
     restart: always
     environment:
       WSPATH: argo
-      UUID: de04add9-5c68-8bab-950c-08cd5320df18
+      UUID: c4fe4fca-9e25-4639-999a-cc2cfd3090d3
  #     NEZHA_KEY: vXzZLTaBU3oVO9pyM
  #     NEZHA_SERVER: probe.nezha.org
  #     NEZHA_PORT: 5555
